@@ -1,4 +1,2 @@
-lurla.hithub.io
-===============
-
-My personal account GitHub pages website
+# My Personal GitHub Home Page
+Content from GitHub Foundations training
