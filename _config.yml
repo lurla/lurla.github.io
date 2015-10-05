@@ -1,0 +1,28 @@
+# Site settings
+title: "Lurla's Lab"
+email: laura.baalman@gmail.com
+description: "a salesforce developer blog"
+baseurl: ""
+url: "http://lurla.github.io"
+title_description: "bringing your skills from bootcamp to badass"  
+title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+google_analytics: "UA-68451804-1"
+disqus_account: laura.baalman@gmail.com
+github_repository: https://github.com/lurla/lurla.github.io
+post_limit: 5
+# Social usernames/URLs
+twitter_username: lurlaB
+github_username:  lurla
+linkedin_link: https://www.linkedin.com/in/laurabaalman
+#stackoverflow_link: http://stackexchange.com/users/3171405/lurlab
+
+# Footer
+footer_left: "Carte Noir Theme by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+permalink: pretty
+exclude: [vendor]
